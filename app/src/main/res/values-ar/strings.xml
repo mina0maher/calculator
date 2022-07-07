@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="enter_number_1">ادخل رقم 1</string>
+    <string name="enter_number_2">ادخل رقم 2</string>
+    <string name="sum">احسب</string>
+    <string name="sum_equal">المجموع = </string>
+    <string name="the_number_is_too_long">الرقم كبير جدا</string>
+    <string name="required">مطلوب</string>
+</resources>

@@ -40,7 +40,7 @@
             android:importantForAutofill="no" />
 
         <com.google.android.material.button.MaterialButton
-            android:id="@+id/buttonSignIn"
+            android:id="@+id/buttonSum"
             android:layout_width="match_parent"
             android:layout_height="@dimen/_50sdp"
             android:text="@string/sum"

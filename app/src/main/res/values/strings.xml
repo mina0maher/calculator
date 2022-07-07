@@ -3,4 +3,5 @@
     <string name="enter_number_1">enter number 1</string>
     <string name="enter_number_2">enter number 2</string>
     <string name="sum">sum</string>
+    <string name="enter_2_numbers_and_click_sum">enter 2 numbers and click sum</string>
 </resources>

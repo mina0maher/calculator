@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
     private var btnSum:Button? = null
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        setTheme(R.style.Theme_Calculator)
         setContentView(R.layout.activity_main)
         num1 = findViewById(R.id.num1)
         num2 = findViewById(R.id.num2)

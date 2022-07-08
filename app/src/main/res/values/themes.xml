@@ -13,6 +13,11 @@
         <item name="android:statusBarColor" >?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+    <style name="splash_screen_theme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_image</item>
+        <item name="android:statusBarColor">@color/red_700</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
     <style name="editTextTheme" >
         <item name="maxLines">1</item>
         <item name="android:inputType">number</item>
